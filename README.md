@@ -5,3 +5,5 @@ This is a project for passiv cooling of a dual BitAxe Gamma setup. The idea is t
 ![Case](images/case.png)
 
 ![BitAxe Gamma mounted to the wall](images/single-gamma.png)
+
+![3d rendering](images/rendering.png)
